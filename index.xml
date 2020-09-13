@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Matthew M</title>
+    
+    
+    
+    <link>https://matthew-moloughney.github.io/</link>
+    <description>Recent content on Matthew M</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://matthew-moloughney.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://matthew-moloughney.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://matthew-moloughney.github.io/about/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Hello there! My name is Matthew and I am a part-time Teaching Associate and part-time Post-Graduate Research student at Cardiff University, COMSC.
+I have a BN (Mental Health) 2:1 from Swansea University alongside an MSc with Distinction from Cardiff University.
+After qualifying as a psychiatric nurse I held positions as a staff nurse, deputy ward manager and community nurse before seeking to complete an MSc which would allow me to focus on teaching, a part of each of my nursing posts I had enjoyed most.
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://matthew-moloughney.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://matthew-moloughney.github.io/contact/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          My Cardiff University page
+@MoloughneyM
+MoloughneyMJ@cardiff.ac.uk
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://matthew-moloughney.github.io/post/hello/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://matthew-moloughney.github.io/post/hello/</guid>
+      <description>
+        
+          &lt;img src=&#34;https://matthew-moloughney.github.io/img/littleMozNme.JPG&#34;/&gt;
+          
+        
+        
+        
+          &#34;Hello, world!&#34; The classic, customary starting point
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>
